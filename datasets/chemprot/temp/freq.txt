@@ -1,0 +1,6 @@
+0	activation	is	activated	by
+0	inhibition	is	inhibitor	of
+0	agonist	is	activity	is	mediated
+0	antagonist	identified	are	antagonists
+0	substrate	involved	in	secretion
+0	no_relation	by	concentrations	of

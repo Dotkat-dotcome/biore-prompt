@@ -1,0 +1,6 @@
+0	activation	is	activated	by
+0	inhibition	of	inhibition	by
+0	agonist	agonist	actions	of
+0	antagonist	known	as	antagonist
+0	substrate	is	substrate	for
+0	no_relation	was	unable	bind
